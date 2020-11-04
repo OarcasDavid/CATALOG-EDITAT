@@ -1,0 +1,36 @@
+<head>
+<link rel="stylesheet" href="catalog_styles.css">
+<style>
+img {
+border-radius: 15%;
+opacity: 0.8;
+width : 200px;
+margin: 5px;
+border: 1px solid #ccc;
+height : 200px; }
+h1 {color : blue;
+font-size : 35px; }
+P { color : red;
+font-size: 25px; }
+body {
+  background-color: lightblue;
+}
+table, th, td {
+  border: 1px solid black;
+}
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+}
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(David.jpg) 30 round;
+}
+</style>
+</head>
+<body>
